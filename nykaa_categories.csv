@@ -1,0 +1,559 @@
+Category,Category Link,Subcategory,Subcategory Link,Product Type,Product Type Link
+makeup,Face,Face Primer
+makeup,Face,Concealer
+makeup,Face,Foundation
+makeup,Face,Compact
+makeup,Face,Contour
+makeup,Face,Loose Powder
+makeup,Face,Tinted Moisturizer
+makeup,Face,Blush
+makeup,Face,Bronzer
+makeup,Face,BB & CC cream
+makeup,Face,Highlighters
+makeup,Face,Setting Spray
+makeup,Face,Makeup Remover
+makeup,Face,Sindoor
+makeup,Eyes,Kajal
+makeup,Eyes,Eyeliner
+makeup,Eyes,Mascara
+makeup,Eyes,Eye Shadow
+makeup,Eyes,Eye Brow Enhancers
+makeup,Eyes,Eye Primer
+makeup,Eyes,False Eyelashes
+makeup,Eyes,Eye Makeup Remover
+makeup,Eyes,Under Eye Concealer
+makeup,Eyes,Contact Lenses
+makeup,Makeup Kits & Combos,Makeup Kits
+makeup,Makeup Kits & Combos,Makeup Combos
+makeup,Lips,Lipstick
+makeup,Lips,liquid Lipstick
+makeup,Lips,Lip Crayon
+makeup,Lips,Lip Gloss
+makeup,Lips,Lip Liner
+makeup,Lips,Lip Plumper
+makeup,Lips,Lip Tint
+makeup,Nails,Nail Polish
+makeup,Nails,Nail Art Kits
+makeup,Nails,Nail Care
+makeup,Nails,Nail Polish Remover
+makeup,Tools & Brushes,Face Brush
+makeup,Tools & Brushes,Eye Brush
+makeup,Tools & Brushes,Lip Brush
+makeup,Tools & Brushes,Brush Sets
+makeup,Tools & Brushes,Brush Cleaners
+makeup,Tools & Brushes,Sponges & Applicators
+makeup,Tools & Brushes,Eyelash Curlers
+makeup,Tools & Brushes,Tweezers
+makeup,Tools & Brushes,Sharpeners
+makeup,Tools & Brushes,Mirrors
+makeup,Tools & Brushes,Makeup Pouches
+skin,Moisturizers,Face Moisturizer & Day Cream
+skin,Moisturizers,Night Cream
+skin,Moisturizers,Face Oils
+skin,Moisturizers,All Purpose Gels/Creams
+skin,Serums,Serums & Essence
+skin,Cleansers,Face Wash
+skin,Cleansers,Cleanser
+skin,Cleansers,Micellar Water
+skin,Cleansers,Face Wipes
+skin,Cleansers,Makeup Remover
+skin,Cleansers,Scrubs & Exfoliators
+skin,Trending Searches,Toners Under 1000
+skin,Trending Searches,Face wash for Oily Skin
+skin,Trending Searches,Oil Free Face Moisturizers
+skin,Trending Searches,Lip Balm Under 500
+skin,Trending Searches,Vitamin C Serum
+skin,Masks,Sheet Masks
+skin,Masks,Sleeping Masks
+skin,Masks,Masks & Peels
+skin,Masks,Face Packs
+skin,Masks,Face Bleach
+skin,Toners,Toners & Mists
+skin,Toners,Rose Water
+skin,Body Care,Lotions & Creams
+skin,Body Care,Body Butter
+skin,Body Care,Massage Oils
+skin,Body Care,Shower Gels & Body Wash
+skin,Body Care,Soaps
+skin,Body Care,Scrubs & Loofahs
+skin,Body Care,Bath Salts
+skin,Hands & Feet,Hand Creams
+skin,Hands & Feet,Foot Creams
+skin,Hands & Feet,Hand & Foot Masks
+skin,Specialised Skincare,Acne Spot Correctors
+skin,Specialised Skincare,Nose Strips
+skin,Specialised Skincare,Facial Peels
+skin,Eye Care,Under Eye Cream & Serums
+skin,Eye Care,Eye Masks
+skin,Lip Care,Lip Balm
+skin,Lip Care,Lip Scrubs
+skin,Lip Care,Lip Masks
+skin,Sun Care,Face Sunscreen
+skin,Sun Care,Body Sunscreen
+skin,Kits & Combos,Facial Kits
+skin,Kits & Combos,Combos @ Nykaa
+skin,Kits & Combos,Gift Sets
+skin,Skin Tools,Face Massagers
+skin,Skin Tools,Cleansing Brushes
+skin,Skin Tools,Blackhead Remover
+skin,Skin Tools,Dermarollers
+skin,Skin Supplements,Vitamins & Minerals
+skin,Skin Supplements,Ayurvedic Herbs
+skin,Shop By Concern,Acne
+skin,Shop By Concern,Dull Skin
+skin,Shop By Concern,Pigmentation
+skin,Shop By Concern,Wrinkles & Fine Lines
+skin,Shop By Concern,Pores
+skin,Shop By Concern,Dark Spots
+skin,Shop By Concern,Face Tan
+skin,Shop By Concern,Oil Control
+hair,hair care,Shampoo
+hair,hair care,Dry Shampoo
+hair,hair care,Conditioner
+hair,hair care,Hair Oil
+hair,hair care,Hair Serum
+hair,hair care,Hair Creams & Masks
+hair,hair care,Hair Supplements
+hair,hair care,Leave-in Conditioner
+hair,Tools & Accessories,Hair Brushes
+hair,Tools & Accessories,Hair Combs
+hair,Tools & Accessories,Dryers & Stylers
+hair,Tools & Accessories,Straighteners
+hair,Tools & Accessories,Rollers & Curlers
+hair,Tools & Accessories,Hair Extensions
+hair,Tools & Accessories,Hair Accessories
+hair,Hair Styling,Hair Color
+hair,Hair Styling,Hair Spray
+hair,Hair Styling,Gels & Waxes
+hair,Shop By Hair Type,Straight
+hair,Shop By Hair Type,Curly & Wavy
+hair,Shop By Concern,Hairfall & Thinning
+hair,Shop By Concern,Dandruff
+hair,Shop By Concern,Dry & Frizzy Hair
+hair,Shop By Concern,Split Ends
+hair,Shop By Concern,Color Protection
+hair,Shop By Concern,Damaged Hair
+hair,Shop By Concern,Hair Growth
+hair,Shop By Concern,Curl Enhancing
+hair,Shop By Concern,Volume
+hair,Shop By Concern,Length & Shine
+hair,Shop By Concern,Bond Building
+hair,Hair Kits & Combos,Hair Kits
+hair,Hair Kits & Combos,Hair Combos
+appliances,Hair Styling Tools,Hair Dryers
+appliances,Hair Styling Tools,Straighteners
+appliances,Hair Styling Tools,Straightening Brushes
+appliances,Hair Styling Tools,Curling Iron/Stylers
+appliances,Hair Styling Tools,Multi Stylers
+appliances,Hair Styling Tools,Blow Brushes
+appliances,Pro Hair Styling,Pro Hair Dryers
+appliances,Pro Hair Styling,Pro Straighteners
+appliances,Pro Hair Styling,Pro Curling Irons/Stylers
+appliances,Pro Hair Styling,Pro Multi Stylers
+appliances,Hair Removal Tools,Epilators
+appliances,Hair Removal Tools,Body Groomers
+appliances,Hair Removal Tools,Bikini Trimmers
+appliances,Quick Links,Combos @ Nykaa
+appliances,Quick Links,New Launches
+appliances,Quick Links,NFBA Nominees 2022
+appliances,Quick Links,Gifts @ Nykaa
+appliances,Quick Links,Herbal Hair Care
+Bath & Body,Bath & Shower,Shower Gels & Body Wash
+Bath & Body,Bath & Shower,Body Scrubs & Exfoliants
+Bath & Body,Bath & Shower,Soaps
+Bath & Body,Bath & Shower,Bath Salts
+Bath & Body,Body Care,Body Lotions & Moisturizers
+Bath & Body,Body Care,Body Butters
+Bath & Body,Body Care,Talcum Powder
+Bath & Body,Body Care,Massage Oils
+Bath & Body,Body Care,Essential Oils
+Bath & Body,Body Care,
+Bath & Body,Hands & Feet,Hand Wash
+Bath & Body,Hands & Feet,Hand Creams & Masks
+Bath & Body,Hands & Feet,Foot Care
+Bath & Body,Feminine Hygiene,Sanitary Napkins
+Bath & Body,Feminine Hygiene,Menstrual Cups
+Bath & Body,Feminine Hygiene,Tampons
+Bath & Body,Feminine Hygiene,Pantyliners
+Bath & Body,Feminine Hygiene,Period Panties
+Bath & Body,Feminine Hygiene,Intimate Care
+Bath & Body,Feminine Hygiene,Cotton Buds & Balls
+Bath & Body,Feminine Hygiene,Other Period Essentials
+Bath & Body,Female Grooming,Body Razors & Cartridges
+Bath & Body,Female Grooming,Face & Eyebrow Razors
+Bath & Body,Female Grooming,Wax & Wax Strips
+Bath & Body,Female Grooming,Hair Removal Creams
+Bath & Body,Female Grooming,Epilators & Bikini Trimmers
+Bath & Body,Male Grooming,Razors & Catridges
+Bath & Body,Male Grooming,"Shaving Cream, Foams & Gels"
+Bath & Body,Male Grooming,Pre & Post Shaves
+Bath & Body,Male Grooming,Shaving Brush
+Bath & Body,Male Grooming,Shavers & Trimmers
+Bath & Body,Male Grooming,Beard & Moustache Care
+Bath & Body,Male Grooming,Intimate Care
+Bath & Body,Male Grooming,Deodorants/Roll-ons
+Bath & Body,Male Grooming,Body Mist/Spray
+Bath & Body,Male Grooming,Colognes
+Bath & Body,Hygiene Essentials,Toothpaste
+Bath & Body,Hygiene Essentials,Electric Toothbrush
+Bath & Body,Hygiene Essentials,Manual Toothbrush
+Bath & Body,Hygiene Essentials,Mouthwash
+Bath & Body,Hygiene Essentials,Floss & Tongue Cleaners
+Bath & Body,Oral Care,Toothpaste
+Bath & Body,Oral Care,Electric Toothbrush
+Bath & Body,Oral Care,Manual Toothbrush
+Bath & Body,Oral Care,Mouthwash
+Bath & Body,Oral Care,Floss & Tongue Cleaners
+Bath & Body,Tools & Accessories,Manicure Pedicure Kits
+Bath & Body,Tools & Accessories,Loofahs
+Bath & Body,Tools & Accessories,Bath Accessories
+Bath & Body,Tools & Accessories,Others
+Bath & Body,Kits & Combos,Bath & Body Kits
+Bath & Body,Kits & Combos,Bath & Body Combos
+Bath & Body,Quick Links,New Launches
+Bath & Body,Quick Links,The Gift Store
+Bath & Body,Quick Links,Daily Essentials
+Bath & Body,Trending Searches,Body Wash
+Bath & Body,Trending Searches,Body Lotions
+Bath & Body,Trending Searches,Face Razors for women
+Bath & Body,Trending Searches,Sanitary Napkins
+Bath & Body,Trending Searches,Body Scrubs
+Bath & Body,Trending Searches,Deodorants
+Natural,Skin,Face Wash
+Natural,Skin,Cleanser
+Natural,Skin,Moisturizer
+Natural,Skin,Face Cream
+Natural,Skin,Face Mist
+Natural,Skin,Facial Kits
+Natural,Skin,Toner
+Natural,Skin,Face Oils
+Natural,Skin,Sunscreen
+Natural,Skin,Night Cream
+Natural,Skin,Day Cream
+Natural,Skin,Under Eye Care
+Natural,Skin,Face Bleach
+Natural,Skin,Serums
+Natural,Skin,Sheet Masks
+Natural,Skin,Masks & Peels
+Natural,Skin,Scrubs & Exfoliators
+Natural,Skin,Face Tools
+Natural,Skin,Face Gel
+Natural,Skin,Lip Scrub
+Natural,Body Care,Shower Gels & Body Wash
+Natural,Body Care,Soaps
+Natural,Body Care,Body Lotions
+Natural,Body Care,Body Scrubs
+Natural,Body Care,Bath Salts & Bath Bombs
+Natural,Body Care,Hands & Feet Care
+Natural,Body Care,Bath Tools & Accessories
+Natural,Body Care,Oral Care
+Natural,Hair,Shampoo & Cleanser
+Natural,Hair,Conditioner
+Natural,Hair,Hair Masks
+Natural,Hair,Hair Oil
+Natural,Hair,Hair Serum
+Natural,Hair,Hair Color
+Natural,Hair,Tools & Accessories
+Natural,Aromatherapy,Massage Oils
+Natural,Aromatherapy,Carrier Oils
+Natural,Aromatherapy,Essential Oils
+Natural,Aromatherapy,Candles
+Natural,Aromatherapy,Diffuser
+Natural,Aromatherapy,Incense Sticks
+Natural,Makeup,Lipstick
+Natural,Makeup,Kajal
+Natural,Makeup,Eyeliner
+Natural,Makeup,Mascara
+Natural,Makeup,Nail Polish
+Natural,Makeup,Lip Balm & Gloss
+Natural,Makeup,Foundation & Concealer
+Natural,Makeup,Blush & Highlighter
+Natural,Makeup,Makeup Remover
+Natural,Makeup,Tools & Brushes
+Natural,Trending Search,Tea Tree Oil
+Natural,Trending Search,Eucalyptus Oil
+Natural,Trending Search,Rosemary Oil
+Natural,Trending Search,Jojoba Oil
+Natural,Trending Search,Peppermint Oil
+Natural,Baby Care,Dry Skin
+Natural,Baby Care,Normal Skin
+Natural,Baby Care,Oily Skin
+Natural,Baby Care,Combination Skin
+Natural,Types of Skin,Dry Skin
+Natural,Types of Skin,Normal Skin
+Natural,Types of Skin,Oily Skin
+Natural,Types of Skin,Combination Skin
+Natural,Shop By Concern,Tan Removal
+Natural,Shop By Concern,Pigmentation
+Natural,Shop By Concern,Acne Treatment
+Natural,Shop By Concern,Skin Lightening
+Natural,Shop By Concern,Anti Aging
+Natural,Shop By Concern,Dark Circles
+Natural,Shop By Concern,Hairfall
+Natural,Shop By Concern,Dandruff
+Natural,Shop By Concern,Dry & Frizzy Hair
+mom & baby,Baby Care,Body Wash & Soaps
+mom & baby,Baby Care,Baby Oil
+mom & baby,Baby Care,Hair Oil
+mom & baby,Baby Care,Lotions & Creams
+mom & baby,Baby Care,Baby Powder
+mom & baby,Baby Care,Shampoo & Conditioner
+mom & baby,Baby Care,Sunscreen
+mom & baby,Baby Care,Wipes & Buds
+mom & baby,Baby Care,Teeth & Dental Care
+mom & baby,Baby Care,Rash Cream
+mom & baby,Baby Care,Diapers
+mom & baby,Baby Care,Diaper Accessories
+mom & baby,Baby Care,Bath Accessories
+mom & baby,Baby Care,Baby Grooming
+mom & baby,Baby Care,Baby Bedding
+mom & baby,Kids Care,Nutritional Supplement
+mom & baby,Kids Care,Body Wash & Soaps
+mom & baby,Kids Care,Lotions & Creams
+mom & baby,Kids Care,Hair Care
+mom & baby,Kids Care,Sunscreen
+mom & baby,Kids Care,Dental Care
+mom & baby,Kids Care,Kids Makeup
+mom & baby,Maternity Care,Stretch Mark Creams & Oils
+mom & baby,Maternity Care,Breast Firming Gels & Creams
+mom & baby,Maternity Care,Nipple Creams
+mom & baby,Maternity Care,Nutritional Supplements
+mom & baby,Nursing & Feeding,Feeding Bottle & Nipples
+mom & baby,Nursing & Feeding,Teethers & Soothers
+mom & baby,Nursing & Feeding,Breast Pumps
+mom & baby,Nursing & Feeding,Breast Pads
+mom & baby,Nursing & Feeding,Cleaning & Feeding Accessories
+mom & baby,Nursing & Feeding,Bibs
+mom & baby,Nursing & Feeding,Sippers & Cups
+mom & baby,Health & Safety,Nose & Ear Care
+mom & baby,Health & Safety,Gripe Water & Tummy Roll On
+mom & baby,Health & Safety,Detergents & Cleansers
+mom & baby,Health & Safety,Handwash & Sanitizer
+mom & baby,Health & Safety,Mosquito Repellent
+mom & baby,Maternity Wear,Maternity Bra
+mom & baby,Maternity Wear,Maternity Dress
+mom & baby,Maternity Wear,Maternity Tops
+mom & baby,Baby Toys,Baby Dry Skin
+mom & baby,Baby Toys,Cracked Nipple Cream
+mom & baby,Baby Toys,Scalp Treatment
+mom & baby,Baby Toys,Coconut Oil
+mom & baby,Baby Toys,Almond Oil
+mom & baby,Baby Toys,Heat Rash
+mom & baby,Baby Toys,Body Toning & Firming
+mom & baby,Baby Toys,Baby Skin Concerns
+mom & baby,Gift Sets,Baby Dry Skin
+mom & baby,Gift Sets,Cracked Nipple Cream
+mom & baby,Gift Sets,Scalp Treatment
+mom & baby,Gift Sets,Coconut Oil
+mom & baby,Gift Sets,Almond Oil
+mom & baby,Gift Sets,Heat Rash
+mom & baby,Gift Sets,Body Toning & Firming
+mom & baby,Gift Sets,Baby Skin Concerns
+mom & baby,Shop by Concerns,Baby Dry Skin
+mom & baby,Shop by Concerns,Cracked Nipple Cream
+mom & baby,Shop by Concerns,Scalp Treatment
+mom & baby,Shop by Concerns,Coconut Oil
+mom & baby,Shop by Concerns,Almond Oil
+mom & baby,Shop by Concerns,Heat Rash
+mom & baby,Shop by Concerns,Body Toning & Firming
+mom & baby,Shop by Concerns,Baby Skin Concerns
+Health & Wellness,Health Supplements,Multivitamins
+Health & Wellness,Health Supplements,Calcium & Vitamin D
+Health & Wellness,Health Supplements,Magnesium & Zinc
+Health & Wellness,Health Supplements,Omega 3 & Fish Oil
+Health & Wellness,Health Supplements,Immunity Boosters & Vitamin C
+Health & Wellness,Health Supplements,Other Supplements
+Health & Wellness,Health Supplements,Melatonin (Sleep Care)
+Health & Wellness,Health Supplements,Brain Boost
+Health & Wellness,Health Supplements,Eye Care (Lutein)
+Health & Wellness,Health Supplements,Gut Health
+Health & Wellness,Beauty Supplements,Collagen
+Health & Wellness,Beauty Supplements,Biotin
+Health & Wellness,Beauty Supplements,Vitamin E
+Health & Wellness,Beauty Supplements,Glutathione
+Health & Wellness,Beauty Supplements,Other Beauty Supplements
+Health & Wellness,Sports Nutrition,Whey Protein
+Health & Wellness,Sports Nutrition,Plant Protein
+Health & Wellness,Sports Nutrition,BCAA & Other Muscle Support
+Health & Wellness,Sports Nutrition,Protein & Energy Bars
+Health & Wellness,Sports Nutrition,Protein Snacks
+Health & Wellness,Sports Nutrition,Creatine
+Health & Wellness,Sports Nutrition,L Glutamine
+Health & Wellness,Sports Nutrition,Mass Gainer
+Health & Wellness,Weight Management,Weight Gain
+Health & Wellness,Weight Management,Apple Cider Vinegar (Weight Loss)
+Health & Wellness,Weight Management,Green Tea - Beverage
+Health & Wellness,Weight Management,Green Coffee - Beverage
+Health & Wellness,Weight Management,Fat Burner
+Health & Wellness,Weight Management,Slimming Shakes & Juices
+Health & Wellness,Weight Management,Sugar Substitutes
+Health & Wellness,Hydration,Health Drinks
+Health & Wellness,Health Foods,Edible Honey
+Health & Wellness,Health Foods,"Dry Fruits, Nuts & Berries"
+Health & Wellness,Health Foods,Edible Seeds
+Health & Wellness,Health Foods,Oils & Ghee
+Health & Wellness,Health Foods,Black Tea & Coffee
+Health & Wellness,Health Foods,Herbal Teas
+Health & Wellness,Health Foods,Breakfast Cereals
+Health & Wellness,Health Foods,Peanut Butter
+Health & Wellness,Health Foods,Other Health Foods
+Health & Wellness,Sports & Fitness,Cardio Equipment
+Health & Wellness,Sports & Fitness,Strength Training
+Health & Wellness,Sports & Fitness,Fitness Accessories
+Health & Wellness,Wellness Equipment,Weighing Scales
+Health & Wellness,Wellness Equipment,Fitness
+Health & Wellness,Wellness Equipment,Supports & Braces
+Health & Wellness,Pain Relief,Muscular & Ortho
+Health & Wellness,Pain Relief,Period Cramps
+Health & Wellness,Pain Relief,Other Pain
+Health & Wellness,Health & Wellness Kits & Combos,Health & Wellness Kits
+Health & Wellness,Health & Wellness Kits & Combos,Health & Wellness Combos
+Health & Wellness,Health & Wellness Kits & Combos,Pregnancy Kits
+Health & Wellness,Watches,Smart Wearables
+Health & Wellness,Ayurveda & Herbs,Ashwagandha
+Health & Wellness,Ayurveda & Herbs,Neem (Powder & Tablets)
+Health & Wellness,Ayurveda & Herbs,Amla Juice
+Health & Wellness,Ayurveda & Herbs,Aloe Vera (Tablets & Juice)
+Health & Wellness,Ayurveda & Herbs,Milk Thistle (Liver)
+Health & Wellness,Ayurveda & Herbs,Wheatgrass (Powder & Juice)
+Health & Wellness,Ayurveda & Herbs,Tulsi (Tablets & Juices)
+Health & Wellness,Ayurveda & Herbs,Giloy & Guduchi (Tablets & Juice)
+Health & Wellness,Ayurveda & Herbs,Turmeric (Tablets & Juice)
+Health & Wellness,Ayurveda & Herbs,Spirulina & Moringa (Tablets & Powder)
+Health & Wellness,Ayurveda & Herbs,Chyavanprash
+Health & Wellness,Ayurveda & Herbs,Shilajit
+Health & Wellness,Ayurveda & Herbs,Other Herbal Supplements
+Health & Wellness,Shop By Concern,Diabetes
+Health & Wellness,Shop By Concern,Digestion (Gut Health)
+Health & Wellness,Shop By Concern,"Organs - Liver, Heart, Kidney"
+Health & Wellness,Shop By Concern,Safety & First Aid
+Health & Wellness,Shop By Concern,Weakness & Vitality
+Health & Wellness,Shop By Concern,Kids Nutrition
+Health & Wellness,Shop By Concern,Mental Wellness
+Health & Wellness,Shop By Concern,Blood Pressure
+Health & Wellness,Shop By Concern,Hormonal Balance
+Health & Wellness,Shop By Concern,Calm & Sleep
+men,Shaving,Razors & cartridges
+men,Shaving,Shavers
+men,Shaving,Trimmers
+men,Shaving,Shaving Creams
+men,Shaving,Shaving Foams
+men,Shaving,Shaving Gels
+men,Shaving,Pre & Post Shaves
+men,Shaving,Aftershave Lotion
+men,Shaving,Shaving Brushes
+men,Beard Care,Beard Oil
+men,Beard Care,Beard Butter
+men,Beard Care,Beard Softener
+men,Beard Care,Beard Wash
+men,Beard Care,Beard Wax
+men,Beard Care,Moustache Oil
+men,Beard Care,Beard Comb
+men,Beard Care,Moustache Wax
+men,Beard Care,Beard Kits
+men,Beard Care,Beard Gel
+men,Beard Care,Beard Balm
+men,Beard Care,Beard Cream
+men,Beard Care,Beard Serum
+men,Beard Care,Beard Mist
+men,Beard Care,Beard Colour
+men,Beard Care,Beard Shampoo
+men,Hair Care,Shampoo
+men,Hair Care,Conditioner
+men,Hair Care,Hair Styling
+men,Hair Care,Hair Color
+men,Hair Care,Hair Oils
+men,Hair Care,Professional Products
+men,Skin care,Face Wash
+men,Skin care,Moisturizers
+men,Skin care,Sunscreen
+men,Skin care,Masks & Peels
+men,Skin care,Scrubs & Exfoliators
+men,Skin care,Fairness
+men,Bath & Body,Bath/Shower Gels
+men,Bath & Body,Soaps
+men,Bath & Body,Body Scrubs
+men,Bath & Body,Talc
+men,Bath & Body,Dental Care
+men,Bath & Body,Body Lotions
+men,Bath & Body,Intimate Care
+men,Grooming Kits,Deodorants/Roll Ons
+men,Grooming Kits,Colognes & Perfumes (EDT & EDP)
+men,Grooming Kits,Luxe Fragrances
+men,Fragrance,Deodorants/Roll Ons
+men,Fragrance,Colognes & Perfumes (EDT & EDP)
+men,Fragrance,Luxe Fragrances
+men,Shop By Concern,Anti Dandruff
+men,Shop By Concern,Anti Hairfall
+men,Shop By Concern,Scalp Treatment
+men,Shop By Concern,Anti Acne
+men,Shop By Concern,Anti Ageing
+men,Wellness,Sexual Wellness
+men,Wellness,Health Supplements
+men,Wellness,Weight Management
+men,Wellness,Sports Nutrition
+fragrance,Womens Fragrance,Perfumes (EDT / EDP)
+fragrance,Womens Fragrance,Body Mists / Sprays
+fragrance,Mens Fragrance,Perfumes (EDT / EDP)
+fragrance,Shop by Fragrance Family,Earthy & Woody
+fragrance,Shop by Fragrance Family,Floral
+fragrance,Shop by Fragrance Family,Fresh & Aquatic
+fragrance,Shop by Fragrance Family,Spicy & Warm
+fragrance,Shop by Fragrance Family,Oud Collection
+fragrance,Shop by Fragrance Family,Fruity
+fragrance,Aromatherapy,Candles
+fragrance,Aromatherapy,Diffuser
+fragrance,Aromatherapy,Incense Sticks
+Lingerie & Accessories,Lingerie,Bras
+Lingerie & Accessories,Lingerie,Underwear
+Lingerie & Accessories,Lingerie,Sleep & Lounge
+Lingerie & Accessories,Lingerie,Shapewear
+Lingerie & Accessories,Lingerie,Swimwear
+Lingerie & Accessories,Lingerie,Maternity Wear
+Lingerie & Accessories,Lingerie,Activewear
+Lingerie & Accessories,Watches,Smart Watches & Activity Tracker
+Lingerie & Accessories,Bags,Sling Bags
+Lingerie & Accessories,Bags,Handbags
+Lingerie & Accessories,Bags,Wallets & Card Cases
+Lingerie & Accessories,Bags,Tote Bags
+Lingerie & Accessories,Bags,Backpacks & Duffel Bags
+Lingerie & Accessories,Bags,Satchels
+Lingerie & Accessories,Bags,Clutches
+Lingerie & Accessories,Bags,Laptop Bags
+Lingerie & Accessories,Bags,Vanity Bags & Pouches
+Lingerie & Accessories,Bags,Batuas & Potlis
+Lingerie & Accessories,Footwear,Sports shoes & Sneakers
+Lingerie & Accessories,Footwear,Sandals
+Lingerie & Accessories,Footwear,Heels
+Lingerie & Accessories,Footwear,Flats
+Lingerie & Accessories,Footwear,Flip Flops
+Lingerie & Accessories,Footwear,Wedges
+Lingerie & Accessories,Footwear,Boots
+Lingerie & Accessories,Footwear,Jutttis
+Lingerie & Accessories,Footwear,Kolhapuris
+Lingerie & Accessories,Footwear,Stilletos
+Lingerie & Accessories,Footwear,Loafers
+Lingerie & Accessories,Jewellery,Earrings
+Lingerie & Accessories,Jewellery,Necklaces
+Lingerie & Accessories,Jewellery,Jewellery Sets
+Lingerie & Accessories,Jewellery,Maang Tikka
+Lingerie & Accessories,Jewellery,Bracelets & Bangles
+Lingerie & Accessories,Jewellery,Rings
+Lingerie & Accessories,Jewellery,Mangalsutra
+Lingerie & Accessories,Jewellery,Anklets
+Lingerie & Accessories,Home,Decor
+Lingerie & Accessories,Home,Bedding
+Lingerie & Accessories,Home,Bath
+Lingerie & Accessories,Home,Storage
+Lingerie & Accessories,Home,Home Essentials
+Lingerie & Accessories,Featured Brands,NYKD by Nykaa
+Lingerie & Accessories,Featured Brands,Puma
+Lingerie & Accessories,Featured Brands,Jockey
+Lingerie & Accessories,Featured Brands,Zivame
+Lingerie & Accessories,Featured Brands,Pipa Bella by Nykaa Fashion
+Lingerie & Accessories,Featured Brands,Accessorize London
+Lingerie & Accessories,Featured Brands,Shoetopia
+Lingerie & Accessories,Featured Brands,Twenty Dresses
+Lingerie & Accessories,Featured Brands,NFI Essentials
+Lingerie & Accessories,Featured Brands,Enamor
+Lingerie & Accessories,Featured Brands,Titan
