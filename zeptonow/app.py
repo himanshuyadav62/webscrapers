@@ -46,7 +46,7 @@ print(f"Found {len(categories)} categories.")
 # Step 2: For each category, crawl its page and extract product details.
 # The CSV will combine category details with product information.
 with open('products.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    writer = csv.writer(csvfile, delimiter=';')
+    writer = csv.writer(csvfile, delimiter=',')
     writer.writerow(['category', 'categoryLink', 'productName', 'productLink', 'price', 'quantity', 'offer'])
     
     for cat in categories:
