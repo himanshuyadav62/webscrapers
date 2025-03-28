@@ -1,0 +1,177 @@
+CategoryId,Category1,Category2,Category3
+1,makeup,Face,Foundation
+2,makeup,Face,Compact
+3,makeup,Face,Face Primer
+4,makeup,Face,Concealer
+5,makeup,Face,Contour
+6,makeup,Face,Blush
+7,makeup,Face,Tinted Moisturizer
+8,makeup,Face,Setting Spray
+9,makeup,Face,Bronzer
+10,makeup,Face,BB & CC cream
+11,makeup,Eyes,Mascara
+12,makeup,Eyes,Eye Brow Enhancers
+13,makeup,Eyes,Eye Shadow
+14,makeup,Eyes,Eye Primer
+15,makeup,Eyes,Eye Makeup Remover
+16,makeup,Eyes,Contact Lenses
+17,makeup,Makeup Kits & Combos,Makeup Combos
+18,makeup,Lips,liquid Lipstick
+19,makeup,Lips,Lip Crayon
+20,makeup,Makeup Kits & Combos,Makeup Kits
+21,makeup,Nails,Nail Polish Remover
+22,makeup,Nails,Nail Polish
+23,makeup,Nails,Nail Art Kits
+24,makeup,Lips,Lip Tint
+25,makeup,Nails,Nail Care
+26,makeup,Tools & Brushes,Eye Brush
+27,makeup,Tools & Brushes,Face Brush
+28,makeup,Tools & Brushes,Tweezers
+29,makeup,Tools & Brushes,Eyelash Curlers
+30,makeup,Tools & Brushes,Sponges & Applicators
+31,hemistry (Nanjing) Co. Ltd. RM - 1201, Heping Mansion, No. 22 East
+32,hair,hair care,Dry Shampoo
+33,hair,hair care,Hair Serum
+34,hair,hair care,Shampoo
+35,hair,hair care,Hair Oil
+36,hair,hair care,Conditioner
+37,hair,hair care,Leave-in Conditioner
+38,hair,hair care,Hair Supplements
+39,hair,Tools & Accessories,Hair Brushes
+40,hair,Tools & Accessories,Dryers & Stylers
+41,hair,hair care,Hair Creams & Masks
+42,hair,Hair Styling,Hair Color
+43,hair,Hair Styling,Hair Spray
+44,hair,Tools & Accessories,Hair Accessories
+45,hair,Shop By Hair Type,Straight
+46,hair,Shop By Hair Type,Curly & Wavy
+47,hair,Shop By Concern,Split Ends
+48,appliances,Hair Styling Tools,Hair Dryers
+49,appliances,Hair Styling Tools,Curling Iron/Stylers
+50,hair,Shop By Concern,Color Protection
+51,appliances,Hair Styling Tools,Straightening Brushes
+52,appliances,Pro Hair Styling,Pro Hair Dryers
+53,appliances,Hair Styling Tools,Multi Stylers
+54,appliances,Quick Links,Combos @ Nykaa
+55,appliances,Hair Removal Tools,Bikini Trimmers
+56,appliances,Quick Links,New Launches
+57,Bath & Body,Trending Searches,Body Scrubs
+58,Natural,Skin,Cleanser
+59,Bath & Body,Trending Searches,Sanitary Napkins
+60,Natural,Skin,Face Wash
+61,Bath & Body,Trending Searches,Face Razors for women
+62,Natural,Skin,Facial Kits
+63,Natural,Skin,Face Cream
+64,Natural,Skin,Face Oils
+65,Natural,Skin,Face Mist
+66,Natural,Skin,Moisturizer
+67,Natural,Skin,Serums
+68,Natural,Skin,Sunscreen
+69,Natural,Skin,Night Cream
+70,Natural,Skin,Day Cream
+71,Natural,Skin,Sheet Masks
+72,"00072""",,
+73,Natural,Skin,Masks & Peels
+74,Natural,Skin,Face Gel
+75,Natural,Skin,Scrubs & Exfoliators
+76,Natural,Skin,Face Tools
+77,Natural,Body Care,Soaps
+78,Natural,Body Care,Bath Salts & Bath Bombs
+79,Natural,Body Care,Body Scrubs
+80,Natural,Hair,Shampoo & Cleanser
+81,Natural,Body Care,Oral Care
+82,Natural,Body Care,Body Lotions
+83,Area, Turbhe," Navi Mumbai- 400703"""
+84,1219,"H.P`""",
+85,Natural,Hair,Hair Oil
+86,Natural,Hair,Conditioner
+87,Natural,Hair,Hair Masks
+88,Natural,Hair,Hair Color
+89,Natural,Aromatherapy,Essential Oils
+90,Natural,Aromatherapy,Candles
+91,Natural,Aromatherapy,Incense Sticks
+92,Natural,Aromatherapy,Diffuser
+93,Natural,Makeup,Lipstick
+94,Natural,Makeup,Kajal
+95,Natural,Makeup,Mascara
+96,Natural,Makeup,Eyeliner
+97,Natural,Makeup,Nail Polish
+98,Natural,Makeup,Foundation & Concealer
+99,Natural,Makeup,Makeup Remover
+100,Natural,Trending Search,Rosemary Oil
+101,Natural,Trending Search,Peppermint Oil
+102,Natural,Trending Search,Jojoba Oil
+103,Natural,Baby Care,Combination Skin
+104,Natural,Baby Care,Oily Skin
+105,Natural,Shop By Concern,Acne Treatment
+106,Natural,Shop By Concern,Skin Lightening
+107,Natural,Shop By Concern,Pigmentation
+108,Natural,Shop By Concern,Hairfall
+109,mom & baby,Baby Care,Body Wash & Soaps
+110,mom & baby,Baby Care,Teeth & Dental Care
+111,mom & baby,Baby Care,Wipes & Buds
+112,mom & baby,Baby Care,Baby Bedding
+113,mom & baby,Baby Care,Bath Accessories
+114,mom & baby,Kids Care,Body Wash & Soaps
+115,mom & baby,Kids Care,Hair Care
+116,mom & baby,Kids Care,Sunscreen
+117,mom & baby,Maternity Care,Breast Firming Gels & Creams
+118,mom & baby,Nursing & Feeding,Feeding Bottle & Nipples
+119,mom & baby,Nursing & Feeding,Cleaning & Feeding Accessories
+120,mom & baby,Nursing & Feeding,Breast Pads
+121,mom & baby,Nursing & Feeding,Breast Pumps
+122,mom & baby,Health & Safety,Nose & Ear Care
+123,mom & baby,Nursing & Feeding,Sippers & Cups
+124,mom & baby,Health & Safety,Detergents & Cleansers
+125,mom & baby,Maternity Wear,Maternity Dress
+126,mom & baby,Maternity Wear,Maternity Bra
+127,mom & baby,Health & Safety,Handwash & Sanitizer
+128,mom & baby,Health & Safety,Mosquito Repellent
+129,mom & baby,Baby Toys,Scalp Treatment
+130,mom & baby,Baby Toys,Cracked Nipple Cream
+131,mom & baby,Baby Toys,Baby Dry Skin
+132,mom & baby,Baby Toys,Coconut Oil
+133,mom & baby,Maternity Wear,Maternity Tops
+134,mom & baby,Baby Toys,Almond Oil
+135,mom & baby,Baby Toys,Body Toning & Firming
+136,mom & baby,Baby Toys,Baby Skin Concerns
+137,mom & baby,Gift Sets,Scalp Treatment
+138,mom & baby,Gift Sets,Coconut Oil
+139,mom & baby,Gift Sets,Baby Skin Concerns
+140,mom & baby,Shop by Concerns,Cracked Nipple Cream
+141,mom & baby,Shop by Concerns,Heat Rash
+142,mom & baby,Shop by Concerns,Baby Dry Skin
+143,mom & baby,Shop by Concerns,Almond Oil
+144,mom & baby,Shop by Concerns,Coconut Oil
+145,mom & baby,Shop by Concerns,Body Toning & Firming
+146,mom & baby,Shop by Concerns,Baby Skin Concerns
+147,Health & Wellness,Health Supplements,Multivitamins
+148,Health & Wellness,Health Supplements,Calcium & Vitamin D
+149,Health & Wellness,Health Supplements,Magnesium & Zinc
+150,Health & Wellness,Health Supplements,Immunity Boosters & Vitamin C
+151,Health & Wellness,Beauty Supplements,Collagen
+152,Health & Wellness,Beauty Supplements,Biotin
+153,Health & Wellness,Beauty Supplements,Vitamin E
+154,Health & Wellness,Beauty Supplements,Glutathione
+155,Health & Wellness,Beauty Supplements,Other Beauty Supplements
+156,Health & Wellness,Sports Nutrition,Whey Protein
+157,Health & Wellness,Sports Nutrition,Plant Protein
+158,Health & Wellness,Sports Nutrition,BCAA & Other Muscle Support
+159,Health & Wellness,Sports Nutrition,Protein & Energy Bars
+160,Health & Wellness,Sports Nutrition,Protein Snacks
+161,Health & Wellness,Weight Management,Weight Gain
+162,Health & Wellness,Weight Management,Green Tea - Beverage
+163,Health & Wellness,Weight Management,Fat Burner
+164,Health & Wellness,Weight Management,Apple Cider Vinegar (Weight Loss)
+165,Health & Wellness,Weight Management,Green Coffee - Beverage
+166,Country of Origin:    India Manufacturer:    Nutralike Healthcare Address:    Plot no. A/23, Swagat-3 Industrial Park, Indore - Ahamadabad Hwy
+167,Health & Wellness,Weight Management,Slimming Shakes & Juices
+168,Health & Wellness,Wellness Equipment,Weighing Scales
+169,Health & Wellness,Wellness Equipment,Fitness
+170,Health & Wellness,Health Foods,Breakfast Cereals
+171,Health & Wellness,Health Foods,Other Health Foods
+172,Health & Wellness,Pain Relief,Muscular & Ortho
+173,Health & Wellness,Health & Wellness Kits & Combos,Health & Wellness Combos
+174,Health & Wellness,Pain Relief,Other Pain
+175,Health & Wellness,Health & Wellness Kits & Combos,Health & Wellness Kits
+176,Health & Wellness,Pain Relief,Period Cramps
